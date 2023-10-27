@@ -23,10 +23,5 @@ Skills: HTML5 / CSS3 / Bootstrap / SCSS / JS / React-JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=osmanzakaria532&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=osmanzakaria532)  
-
 ![GitHub metrics](https://metrics.lecoq.io/osmanzakaria532)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=osmanzakaria532)  
-
-![Profile views](https://gpvc.arturio.dev/osmanzakaria532)  
