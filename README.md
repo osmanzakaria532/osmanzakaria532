@@ -28,3 +28,4 @@ Skills: HTML5 / CSS3 / Bootstrap / SCSS / JS / React-JS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=osmanzakaria532)  
 
+<a href="https://gitroll.io/profile/uSqSydGZQajSAkBN8kKpGU6q6mVj2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uSqSydGZQajSAkBN8kKpGU6q6mVj2" alt="GitRoll Profile Badge"/></a>
