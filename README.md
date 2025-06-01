@@ -30,11 +30,21 @@ I'm a passionate Web Designer and React Developer dedicated to building error-fr
 
 ### 📱 Socials
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/osmanzakaria532)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/osmanzakaria532/)
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/osmanzakaria532)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/mohammedosman.532/)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/osmanzakaria532)
+<a href="https://github.com/osmanzakaria532" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="28" height="28"/>
+</a>
+<a href="https://www.linkedin.com/in/osmanzakaria532/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="28" height="28"/>
+</a>
+<a href="https://www.facebook.com/osmanzakaria532" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="28" height="28"/>
+</a>
+<a href="https://www.instagram.com/mohammedosman.532/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="28" height="28"/>
+</a>
+<a href="https://twitter.com/osmanzakaria532" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="28" height="28"/>
+</a>
 
 ---
 
@@ -66,4 +76,4 @@ I'm a passionate Web Designer and React Developer dedicated to building error-fr
 
 ---
 
-<!-- You can add more sections as needed! -->
+<!-- You can add more sections as needed! --> 
