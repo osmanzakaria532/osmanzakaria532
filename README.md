@@ -18,7 +18,7 @@ I'm a passionate Web Designer and React Developer dedicated to building error-fr
 
 ### 🚀 About Me
 
-- 🔭 Currently working as an Intern at [Creative IT Institute](https://www.creativeitinstitute.com/)
+- 🔭 Currently working as an Intern at 
 - 🌱 Currently learning Vanilla JavaScript & React.js
 - 👯 Looking to collaborate on interesting projects here on GitHub
 - 🤝 Open to connecting and helping people in the dev community
