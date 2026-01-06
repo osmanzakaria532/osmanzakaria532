@@ -15,11 +15,11 @@ I'm a passionate web developer focused on creating clean, efficient, and user-fr
 
 ## 🧑‍💻 About Me
 
-- 💼 **Frontend Developer** with expertise in React.js and WordPress
+- 💼 **Frontend Developer** with expertise in MERN Stack and WordPress Theme
 - 🎯 Focused on building responsive and performant web applications
 - 🌱 Currently expanding my skills in modern JavaScript frameworks
 - 📍 Based in Chattogram, Bangladesh
-- 🚀 Available for freelance projects and collaboration
+- 🚀 Available for Remote Job And freelance projects OR collaboration
 
 ---
 
