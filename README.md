@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/osmanzakaria532/osmanzakaria532/main/images/github-profile.png)
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=700&lines=Hi%2C+I'm+Osman+Zakaria;Frontend-Focused+MERN+Developer+%7C+WordPress+Expert;Building+Modern+Web+Experiences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=false&vCenter=true&width=700&lines=Hi%2C+I'm+Osman+Zakaria;Frontend-Focused+MERN+Developer;Building+Modern+Web+Experiences" />
 </p>
 
 
