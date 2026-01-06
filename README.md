@@ -82,9 +82,7 @@ Brief description of third project showcasing your versatility.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmanzakaria532&show_icons=true&theme=default&hide_border=true)
-
-<p align="center">
+<p align="left">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmanzakaria532&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
