@@ -1,11 +1,8 @@
-
-![Banner](https://raw.githubusercontent.com/osmanzakaria532/osmanzakaria532/main/banner.png)
-
+![Banner](https://raw.githubusercontent.com/osmanzakaria532/osmanzakaria532/main/github-profile.png)
 
 <p align="">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Osman+Zakaria;Frontend+Developer;React+%7C+WordPress+Expert;Building+Modern+Web+Experiences" />
 </p>
-
 
 ### Frontend-Focused MERN Developer | React, Express, NodeJs, MongoDB | NextJS | WordPress
 
@@ -26,6 +23,7 @@ I'm a passionate web developer focused on creating clean, efficient, and user-fr
 ## 🛠️ Technical Skills
 
 **Frontend Development**
+
 - React.js, JavaScript (ES6+)
 - HTML5, CSS3
 - Tailwind CSS, Bootstrap
@@ -33,10 +31,10 @@ I'm a passionate web developer focused on creating clean, efficient, and user-fr
 - Responsive Design
 
 **BAckend Development**
-- NodeJs With ExpressJs
-- 
 
-**CMS & Tools**
+- NodeJs With ExpressJs
+- **CMS & Tools**
+
 - WordPress Theme Development
 - Firebase
 - Git & GitHub
@@ -47,17 +45,23 @@ I'm a passionate web developer focused on creating clean, efficient, and user-fr
 ## 📂 Featured Projects
 
 ### 🌐 Project 1
+
 Brief description of your best project highlighting key features and technologies used.
+
 - **Tech Stack:** React, Tailwind CSS, Firebase
 - **Links:** [Live Demo](#) | [Source Code](#)
 
 ### 🌐 Project 2
+
 Brief description of another significant project and its impact.
+
 - **Tech Stack:** WordPress, PHP, CSS
 - **Links:** [Live Demo](#) | [Source Code](#)
 
 ### 🌐 Project 3
+
 Brief description of third project showcasing your versatility.
+
 - **Tech Stack:** HTML, CSS, JavaScript
 - **Links:** [Live Demo](#) | [Source Code](#)
 
@@ -65,7 +69,8 @@ Brief description of third project showcasing your versatility.
 
 ## 📊 GitHub Statistics
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmanzakaria532&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osmanzakaria532&show_icons=true&theme=default&hide_border=true)
+
 <p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmanzakaria532&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
