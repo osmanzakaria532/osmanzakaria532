@@ -29,7 +29,12 @@ I'm a passionate web developer focused on creating clean, efficient, and user-fr
 - React.js, JavaScript (ES6+)
 - HTML5, CSS3
 - Tailwind CSS, Bootstrap
+- Firebase
 - Responsive Design
+
+**BAckend Development**
+- NodeJs With ExpressJs
+- 
 
 **CMS & Tools**
 - WordPress Theme Development
