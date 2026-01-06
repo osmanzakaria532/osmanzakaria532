@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Osman Zakaria
+## Hi there 👋, I'm Osman Zakaria
 
 <!-- Profile image (Add your image path or remove if not applicable) -->
 <!-- <img src="your-image-url-here" alt="Osman Zakaria" width="150"/> -->
@@ -8,6 +8,9 @@
 I'm a passionate Web Designer and React Developer dedicated to building error-free, user-friendly websites that ensure client satisfaction. I enjoy solving problems and have a strong desire to learn and share knowledge with others. My experience includes developing personal portfolio sites and business websites.
 
 ---
+
+## Front-End Developer | Web Designer | React Enthusiast
+
 
 ### 🛠️ Skills
 
