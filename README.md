@@ -93,7 +93,7 @@ Brief description of third project showcasing your versatility.
 
 I'm always open to discussing new projects, opportunities, or collaborations.
 
-- 🌐 **Portfolio:** [osmanzakaria.com](https://.osmanzakaria.vercel.app)
+- 🌐 **Portfolio:** [osmanzakaria.com](https://osmanzakaria.vercel.app)
 - 💼 **LinkedIn:** [Connect with me]([https://www.linkedin.com](https://www.linkedin.com/in/osmanzakaria532/))
 - 📘 **Facebook:** [Follow me]([https://www.facebook.com](https://www.facebook.com/osmanzakaria532))
 - 📧 **Email:** hmosmanzakaria@gmail.com, business.osmanzakaria@gmail.com
