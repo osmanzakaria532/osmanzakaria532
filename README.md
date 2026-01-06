@@ -1,79 +1,52 @@
-## Hi there 👋, I'm Osman Zakaria
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Osman+Zakaria;Frontend+Developer;React+%7C+WordPress+Expert;Building+Modern+Web+Experiences" />
+</p>
 
-<!-- Profile image (Add your image path or remove if not applicable) -->
-<!-- <img src="your-image-url-here" alt="Osman Zakaria" width="150"/> -->
+![Banner](https://raw.githubusercontent.com/osmanzakaria532/osmanzakaria532/main/banner.png)
 
-## Front-End Developer | Web Designer | React Enthusiast
+## 👋 About Me
 
-I'm a passionate Web Designer and React Developer dedicated to building error-free, user-friendly websites that ensure client satisfaction. I enjoy solving problems and have a strong desire to learn and share knowledge with others. My experience includes developing personal portfolio sites and business websites.
+I'm **Osman Zakaria**, a Frontend Developer and WordPress Theme Developer with over **2+ years** of experience.
 
----
-
-## Front-End Developer | Web Designer | React Enthusiast
-
-
-### 🛠️ Skills
-
-- **Languages & Tools:**  
-  HTML5, CSS3, Bootstrap, SCSS, JavaScript, React.js
+I build fast, responsive, and modern web applications using React and WordPress.  
+I enjoy turning designs into clean, working products.
 
 ---
 
-### 🚀 About Me
+## 🛠 Tech Stack
 
-- 🔭 Currently working as an Intern at 
-- 🌱 Currently learning Vanilla JavaScript & React.js
-- 👯 Looking to collaborate on interesting projects here on GitHub
-- 🤝 Open to connecting and helping people in the dev community
-- 💬 Ask me about React.js and Front-End Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/osmanzakaria532/)
-- 😄 Pronouns: He/Him (Osman Zakaria)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,wordpress,git,github" />
+</p>
 
 ---
 
-### 📱 Socials
+## 🌐 Portfolio
 
-<a href="https://github.com/osmanzakaria532" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="28" height="28"/>
-</a>
-<a href="https://www.linkedin.com/in/osmanzakaria532/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" width="28" height="28"/>
-</a>
-<a href="https://www.facebook.com/osmanzakaria532" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" width="28" height="28"/>
-</a>
-<a href="https://www.instagram.com/mohammedosman.532/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="28" height="28"/>
-</a>
+🔗 **Live Website**  
+https://profile.osmanzakaria.com
 
 ---
 
-### 🏆 Badges & Trophies
+## 📊 GitHub Stats
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40' alt='Archive Badge'></a>
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40' alt='Dev Badge'></a>
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40' alt='Pro Badge'></a>
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35' alt='Star Badge'></a>
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35' alt='Sponsor Badge'></a>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=osmanzakaria532&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=osmanzakaria532)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmanzakaria532&theme=tokyonight" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🤝 Connect with Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanzakaria532&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=osmanzakaria532&show_icons=true)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=osmanzakaria532)
-
----
-
-### 🌟 Support & Connect
-
-<a href="https://gitroll.io/profile/uSqSydGZQajSAkBN8kKpGU6q6mVj2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uSqSydGZQajSAkBN8kKpGU6q6mVj2" alt="GitRoll Profile Badge"/></a>
-
----
-
-<!-- You can add more sections as needed! --> 
+<p>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.facebook.com">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
+  </a>
+</p>
