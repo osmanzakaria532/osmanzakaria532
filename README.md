@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/osmanzakaria532/osmanzakaria532/main/github-profile.png)
+![Banner](https://raw.githubusercontent.com/osmanzakaria532/osmanzakaria532/main/images/github-profile.png)
 
 <p align="">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Osman+Zakaria;Frontend+Developer;React+%7C+WordPress+Expert;Building+Modern+Web+Experiences" />
