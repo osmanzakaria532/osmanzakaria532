@@ -42,9 +42,6 @@ I'm a passionate Web Designer and React Developer dedicated to building error-fr
 <a href="https://www.instagram.com/mohammedosman.532/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" width="28" height="28"/>
 </a>
-<a href="https://twitter.com/osmanzakaria532" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" width="28" height="28"/>
-</a>
 
 ---
 
