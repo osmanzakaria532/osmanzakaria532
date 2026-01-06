@@ -4,49 +4,79 @@
 
 ![Banner](https://raw.githubusercontent.com/osmanzakaria532/osmanzakaria532/main/banner.png)
 
-## 👋 About Me
+# Hi, I'm Osman Zakaria 👋
 
-I'm **Osman Zakaria**, a Frontend Developer and WordPress Theme Developer with over **2+ years** of experience.
+### Frontend-Focused MERN Developer | React, Express, NodeJs, MongoDB | NextJS | WordPress
 
-I build fast, responsive, and modern web applications using React and WordPress.  
-I enjoy turning designs into clean, working products.
+I'm a passionate web developer focused on creating clean, efficient, and user-friendly applications. With 2+ years of experience, I specialize in building modern web solutions using React and WordPress.
 
 ---
 
-## 🛠 Tech Stack
+## 🧑‍💻 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,firebase,wordpress,git,github" />
+- 💼 **Frontend Developer** with expertise in React.js and WordPress
+- 🎯 Focused on building responsive and performant web applications
+- 🌱 Currently expanding my skills in modern JavaScript frameworks
+- 📍 Based in Chattogram, Bangladesh
+- 🚀 Available for freelance projects and collaboration
+
+---
+
+## 🛠️ Technical Skills
+
+**Frontend Development**
+- React.js, JavaScript (ES6+)
+- HTML5, CSS3
+- Tailwind CSS, Bootstrap
+- Responsive Design
+
+**CMS & Tools**
+- WordPress Theme Development
+- Firebase
+- Git & GitHub
+- VS Code
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Project 1
+Brief description of your best project highlighting key features and technologies used.
+- **Tech Stack:** React, Tailwind CSS, Firebase
+- **Links:** [Live Demo](#) | [Source Code](#)
+
+### 🌐 Project 2
+Brief description of another significant project and its impact.
+- **Tech Stack:** WordPress, PHP, CSS
+- **Links:** [Live Demo](#) | [Source Code](#)
+
+### 🌐 Project 3
+Brief description of third project showcasing your versatility.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Links:** [Live Demo](#) | [Source Code](#)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osmanzakaria532&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmanzakaria532&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
 
-## 🌐 Portfolio
+## 📫 Contact Me
 
-🔗 **Live Website**  
-https://profile.osmanzakaria.com
+I'm always open to discussing new projects, opportunities, or collaborations.
 
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=osmanzakaria532&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmanzakaria532&theme=tokyonight" />
-</p>
+- 🌐 **Portfolio:** [osmanzakaria.com](https://profile.osmanzakaria.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com)
+- 📘 **Facebook:** [Follow me](https://www.facebook.com)
+- 📧 **Email:** your.email@example.com
 
 ---
 
-## 🤝 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.facebook.com">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
-  </a>
+<p align="center">
+  <i>Let's build something great together!</i>
 </p>
